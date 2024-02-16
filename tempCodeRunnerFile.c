@@ -1,0 +1,1 @@
+ int cyfra = -1;
